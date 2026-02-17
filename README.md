@@ -82,6 +82,6 @@ This dashboard enables management to:
 
 ## 👤 Author
 
-Emmanuel  
+Domkat Emmanuel  
 Aspiring Data Analyst  
 Excel | SQL | Power BI | Python  
